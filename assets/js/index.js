@@ -59,4 +59,8 @@ $('#btnLogout').click(() => {
   )
 })
 //调用
+// function change() {
+//   $('#change').addClass('layui-this').next().removeClass('layui-this')
+// }
+// window.parent.change()
 getUserInfo()
